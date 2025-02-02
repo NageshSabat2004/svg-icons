@@ -1,25 +1,26 @@
-.pointed-arrow-down-fill {
-    display: inline-block;
-            width: 48px; /* User can adjust size */
-            height: 48px; /* User can adjust size */
+i {
+            display: inline-block;
+            width: 25px; /* User can adjust size */
+            height: 25px; /* User can adjust size */
             
             /* Make SVG color adjustable */
-            background-color: red; /* User can adjust color */
+            color: black; /* User can adjust color */
+}
+
+i.pointed-arrow-down-fill {
+            background-color: currentColor;/* User can adjust color */
             -webkit-mask: url('https://cdn.jsdelivr.net/gh/NageshSabat2004/svg-icons@refs/heads/main/pointed-arrow-down-fill.svg') no-repeat center;
             mask: url('https://cdn.jsdelivr.net/gh/NageshSabat2004/svg-icons@refs/heads/main/pointed-arrow-down-fill.svg') no-repeat center;
             -webkit-mask-size: contain;
             mask-size: contain;
         }
 
-.pointed-arrow-down {
-            display: inline-block;
-            width: 48px; /* User can adjust size */
-            height: 48px; /* User can adjust size */
-            
-            /* Make SVG color adjustable */
-            background-color: red; /* User can adjust color */
+i.pointed-arrow-down {
+            background-color: currentColor;/* User can adjust color */
             -webkit-mask: url('https://cdn.jsdelivr.net/gh/NageshSabat2004/svg-icons@refs/heads/main/pointed-arrow-down.svg') no-repeat center;
             mask: url('https://cdn.jsdelivr.net/gh/NageshSabat2004/svg-icons@refs/heads/main/pointed-arrow-down.svg') no-repeat center;
             -webkit-mask-size: contain;
             mask-size: contain;
         }
+
+
