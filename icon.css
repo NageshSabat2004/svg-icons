@@ -16,3 +16,13 @@ i.pointed-arrow-down {
     -webkit-mask-size: contain;
     mask-size: contain;
         }
+
+i.pointed-arrow-down-fill {
+    background-color: currentColor; /* Takes color from <i> */
+    
+    -webkit-mask: url('https://cdn.jsdelivr.net/gh/NageshSabat2004/svg-icons@refs/heads/main/pointed-arrow-down-fill.svg') no-repeat center;
+    mask: url('https://cdn.jsdelivr.net/gh/NageshSabat2004/svg-icons@refs/heads/main/pointed-arrow-down-fill.svg') no-repeat center;
+    
+    -webkit-mask-size: contain;
+    mask-size: contain;
+        }
