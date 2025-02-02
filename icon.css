@@ -1,0 +1,12 @@
+.pointed-arrow-down {
+            display: inline-block;
+            width: 48px; /* User can adjust size */
+            height: 48px; /* User can adjust size */
+            
+            /* Make SVG color adjustable */
+            background-color: red; /* User can adjust color */
+            -webkit-mask: url('https://cdn.jsdelivr.net/gh/NageshSabat2004/svg-icons@refs/heads/main/pointed-arrow-down.svg') no-repeat center;
+            mask: url('https://cdn.jsdelivr.net/gh/NageshSabat2004/svg-icons@refs/heads/main/pointed-arrow-down.svg') no-repeat center;
+            -webkit-mask-size: contain;
+            mask-size: contain;
+        }
