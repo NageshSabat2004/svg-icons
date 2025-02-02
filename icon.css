@@ -10,8 +10,8 @@ i {
 i.pointed-arrow-down {
     background-color: currentColor; /* Takes color from <i> */
     
-    -webkit-mask: url('https://cdn.jsdelivr.net/gh/your-username/svg-icons@main/pointed-arrow-down.svg') no-repeat center;
-    mask: url('https://cdn.jsdelivr.net/gh/your-username/svg-icons@main/pointed-arrow-down.svg') no-repeat center;
+    -webkit-mask: url('https://cdn.jsdelivr.net/gh/NageshSabat2004/svg-icons@refs/heads/main/pointed-arrow-down.svg') no-repeat center;
+    mask: url('https://cdn.jsdelivr.net/gh/NageshSabat2004/svg-icons@refs/heads/main/pointed-arrow-down.svg') no-repeat center;
     
     -webkit-mask-size: contain;
     mask-size: contain;
