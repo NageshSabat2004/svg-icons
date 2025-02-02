@@ -1,4 +1,4 @@
-.pointed-arrow-down-fill {
+i.pointed-arrow-down-fill {
             display: inline-block;
             width: 25px; /* User can adjust size */
             height: 25px; /* User can adjust size */
@@ -9,7 +9,7 @@
             mask-size: contain;
         }
 
-/* .pointed-arrow-down {
+i.pointed-arrow-down {
             display: inline-block;
             width: 25px; /* User can adjust size */
             height: 25px; /* User can adjust size */
@@ -21,4 +21,4 @@
         }
 
 
- */
+
