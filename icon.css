@@ -1,8 +1,8 @@
 i {
     /* Default styling for all <i> tags */
-    width: 48px; /* Changeable */
-    height: 48px; /* Changeable */
-    color: red; /* Changeable */
+    width: 24px; /* Changeable */
+    height: 24px; /* Changeable */
+    color: black; /* Changeable */
     
     display: inline-block;
 }
